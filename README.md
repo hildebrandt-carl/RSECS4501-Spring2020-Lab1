@@ -2,6 +2,10 @@
 
 This is the code used for lab 1 of the course Robotics for Software Engineers at the University of Virginia. The code contains a simple rocketship example in ROS. The rocket has a countdown, launches using command velocities, and has an abort function. The simple rocketship example is used to teach the basics of ROS. Please find the lab details in the website below
 
+## Lab Webpage
+
+Will update when webpage goes lives
+
 ## Prerequisites
 
 We expect you to be running the virtual machine provided for this lab. The virtual machine can be downloaded [here](https://www.dropbox.com/s/s6zpud4ubuuy031/robotclass_base.ova?dl=1) and opened in Oracle's Virtual Box. If the virtual machine is unavailable, you can run this code on a Linux machine running Ubuntu 16.04. To install everything you need, you can do the following:
@@ -49,7 +53,3 @@ Now lets add ROS to the bashrc file. Doing this allows you to access ROS from al
 $ echo "source /opt/ros/kinetic/setup.bash" >> ~/.bashrc
 $ source ~/.bashrc
 ```
-
-## Lab Webpage
-
-Will update when webpage goes lives
